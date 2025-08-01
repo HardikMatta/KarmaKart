@@ -1,2 +1,2 @@
-# KarmaKart
-KarmaKart – Reverse E-Commerce for Community Good”
+# EcoBin
+Digital Mood Memory of Physical Spaces
